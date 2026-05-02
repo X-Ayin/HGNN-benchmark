@@ -1,4 +1,4 @@
-# gnn_mcm
+# MCM_Hypergraph_learning
 
 在 **Masked Conditional Modeling（MCM）** 设定下，对比多种「潜结构发现前端 + 超图/GNN 后端」的 PyTorch 实验代码。任务为固定长度的二进制序列：在给定 parity 约束下随机 mask 一位，预测该位的取值（二分类）。
 
